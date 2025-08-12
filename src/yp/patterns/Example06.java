@@ -1,6 +1,6 @@
 package yp.patterns;
 
-public class Example6 {
+public class Example06 {
     public static void main(String[] args) {
         int n=5;
         for(int i=0;i<n;i++){

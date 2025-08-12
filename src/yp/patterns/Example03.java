@@ -1,6 +1,6 @@
 package yp.patterns;
 
-public class Example3 {
+public class Example03 {
     static int x=5;
 
     public static void main(String[] args) {
